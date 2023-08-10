@@ -1,24 +1,32 @@
-# ¡Hola, soy DESARROLADOR! 👋
-por el momento mi identidad es anonima 
-Bienvenido/a a mi perfil de GitHub. Aquí encontrarás algunos de mis proyectos y contribuciones. ¡Siéntete libre de explorar!
+¡Hola, soy un Apasionado del Desarrollo! 👋
+Por el momento, he decidido mantener mi identidad en el anonimato.
+
+Bienvenido/a a mi perfil de GitHub. Aquí podrás explorar algunos de los proyectos en los que he trabajado y las contribuciones que he hecho.
 
 ## Acerca de mí
 
-- 🌍 Programacion: no se soloes un jobit que hago para entretenerme no soy programdor 
-- 👨‍💻 Áreas de interés: [Tus Áreas de Interés]
+- 🌍 Programación: Aunque no me considero un programador profesional, disfruto de la programación como una actividad de ocio y entretenimiento.
+- 👨‍💻 Áreas de interés: [Áreas de interés]
 - 🌱 Actualmente estoy aprendiendo: [Tecnologías o temas actuales de aprendizaje]
 
 ## Proyectos Destacados
 
 ### [CODIGO2022-B](https://codigo2022-b.github.io/FCA/)
-Es una pagina web que lo hice con la neceisad de poner recuerdos de nuestro codigo y que se ira mejorandep  poniendk mas coas como confeciones, galeria etc 
+Este es un sitio web que creé con el propósito de compartir recuerdos y códigos interesantes. Con el tiempo, planeo mejorarlo incluyendo confesiones, galerías y más.
 
-codigos de programacion utilizados:
-```Html
-acrónimo de Hyper Text Markup Language
+Códigos de programación utilizados:
 
-```Css
-Cascading Style Sheets
+```html
+<!-- Lenguaje de Marcado de Hipertexto -->
+```
 
-```Javascrip
-enguaje de secuencias de comandos
+```css
+/* Hojas de Estilo en Cascada */
+```
+
+```javascript
+// Lenguaje de Secuencias de Comandos
+```
+
+¡Gracias por visitar mi perfil y explorar mis proyectos!
+```
