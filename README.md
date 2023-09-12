@@ -6,8 +6,8 @@ Bienvenido/a a mi perfil de GitHub. Aquí podrás explorar algunos de los proyec
 ## Acerca de mí
 
 - 🌍 Programación: Aunque no me considero un programador profesional, disfruto de la programación como una actividad de ocio y entretenimiento.
-- 👨‍💻 Áreas de interés: [Áreas de interés]
-- 🌱 Actualmente estoy aprendiendo: [Tecnologías o temas actuales de aprendizaje]
+- 👨‍💻 Áreas de interés: Programacion. musica, natacion, etc.
+- 🌱 Actualmente estoy aprendiendo: Estoy estudiando administracion la UNAC
 
 ## Proyectos Destacados
 
@@ -30,3 +30,6 @@ Códigos de programación utilizados:
 
 ¡Gracias por visitar mi perfil y explorar mis proyectos!
 ```
+// El éxito es la suma de pequeños esfuerzos repetidos día tras día
+```
+
